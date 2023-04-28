@@ -1,4 +1,4 @@
-var TMR = 0, myDate = '27.04.2021 00:00:00';
+var TMR = 0, myDate = '27.04.2021 16:00:00';
  
 onload = function ()
 {
